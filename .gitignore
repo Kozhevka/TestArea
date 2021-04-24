@@ -36,6 +36,10 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
+/[Ll]ibrary/ 
+/[Tt]emp/
+*.tmp
+*.userprefs
 
 # Unity3D generated file on crash reports
 sysinfo.txt
@@ -43,6 +47,9 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+
+
 
 # Crashlytics generated file
 crashlytics-build.properties
